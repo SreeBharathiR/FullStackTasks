@@ -3,7 +3,7 @@
 <h3>Overview</h3>
 <p>In this repository, you'll find a collection of tasks and projects organized by day. Each day covers specific aspects of full-stack development to build my expertise in:</p>
 <h5>Current Focus</h5>
-<h4>Frontend Development:HTML, CSS(No frameworks such as React yet)</h4>
+<p><b>Frontend Development:</b>HTML, CSS(No frameworks such as React yet)</p>
 <h3>Daily Tasks</h3>
 <h4>Day 1: Build Restaurants Blog Page using HTML</h4>
 <h4>Day 2: Created Sample Web page using HTML, CSS</h4>
