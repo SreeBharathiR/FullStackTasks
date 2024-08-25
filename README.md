@@ -5,9 +5,9 @@
 <h5>Current Focus</h5>
 <p><b>Frontend Development:</b>HTML, CSS(No frameworks such as React yet)</p>
 <h3>Daily Tasks</h3>
-<h4>Day 1: Build Restaurants Blog Page using HTML</h4>
-<h4>Day 2: Created Sample Web page using HTML, CSS</h4>
-<h4>Day 3: Basic Form Creation</h4>
+<p><b>Day 1:</b> Build Restaurants Blog Page using HTML</p>
+<p><b>Day 2:</b> Created Sample Web page using HTML, CSS</p>
+<p><b>Day 3:</b> Basic Form Creation</p>
 <p>(...more to come)</p>
 <h3>Conclusion</h3>
 <p>I am actively working on this repository and will be adding day-wise tasks as I complete them. Each task will be pushed to the repository once it is finished, ensuring the repository stays updated with my progress in mastering the MERN stack.</p>
