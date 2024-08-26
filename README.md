@@ -8,6 +8,9 @@
 <p><b>Day 1:</b> Build Restaurants Blog Page using HTML</p>
 <p><b>Day 2:</b> Created Sample Web page using HTML, CSS</p>
 <p><b>Day 3:</b> Basic Form Creation</p>
+<p><b>Day 4:</b> Sample page for video and audio</p>
+<p><b>Day 5:</b> Sample website with banner</p>
+<p><b>Day 6:</b> Google meet replica using flex</p>
 <p>(...more to come)</p>
 <h3>Conclusion</h3>
 <p>I am actively working on this repository and will be adding day-wise tasks as I complete them. Each task will be pushed to the repository once it is finished, ensuring the repository stays updated with my progress in mastering the MERN stack.</p>
