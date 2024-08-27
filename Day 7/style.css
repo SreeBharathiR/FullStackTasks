@@ -1,0 +1,114 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+header{
+    height: 8vh;
+    width: 100%;
+    position: sticky;
+    display: flex;
+    align-items: center;
+    background-color: orchid;
+    top: 0;
+    left: 0;
+}
+.logoName{
+    display: flex;
+    position: relative;
+    align-items: center;
+    left:10vw;
+    gap:2vw;
+}
+header img{
+    height: 6vh;
+    width: 6vh;
+    border-radius: 50%;
+}
+
+nav{
+    width: 14vw;
+    position: fixed;
+    right: 10vw;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    gap: 2vw;
+    align-items: center;
+}
+li{
+    cursor: pointer;
+}
+.about{
+      height: 56.5vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+.imgdiv{
+    height: 30vh;
+    width: 30vh;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.image{
+    height: 100%;
+    width: 100%;
+}
+.image:hover{
+    transform: scale(1.1);
+}
+h2{
+    font-variant: small-caps;
+}
+.content{
+    margin-left: 2vw;
+    height: 25vh;
+    width: 50vw;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.line{
+    height: 1px;
+    width: 100%;
+    background-color: orchid;
+}
+.contact{
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    justify-items: center;
+}
+.contact p{
+    margin-top: 1px;
+    color: black;
+}
+footer{
+    width: 100%;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    background-color: orchid;
+    display: flex;
+    height: 6vh;
+    align-items: center;
+    justify-content: center;
+}
+pre{
+    font-size: 1rem;
+}
+.heart{
+    color: red;
+}
+
