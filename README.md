@@ -5,7 +5,7 @@
 <h4>Current Focus;</h4>
 <p><b>Frontend Development:</b>HTML, CSS(No frameworks such as React yet)</p>
 <h3>Daily Tasks</h3>
-<p><b>Day 1:</b> Build Restaurants Blog Page using HTML</p>
+<p><b>Day 1:</b> Build Restaurants Blog Page using HTML</p>[Link For this webpage](https://sreebharathi-day1.netlify.app/)
 <p><b>Day 2:</b> Created Sample Web page using HTML, CSS</p>
 <p><b>Day 3:</b> Basic Form Creation</p>
 <p><b>Day 4:</b> Sample page for video and audio</p>
