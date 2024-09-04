@@ -1,0 +1,129 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 1rem;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-template-rows: repeat(3, auto);
+  justify-content: space-evenly;
+  row-gap: 15px;
+}
+.container1 {
+  height: 30vh;
+  width: 30vw;
+  background-color: #2c3444;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.top {
+  height: 10%;
+  width: 95%;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  justify-content: space-between;
+  align-content: center;
+}
+.circles {
+  height: 100%;
+  width: 3rem;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  column-gap: 5px;
+  justify-content: center;
+  align-content: center;
+}
+.circle {
+  height: 0.5rem;
+  width: 0.5rem;
+  border-radius: 50%;
+}
+.c1 {
+  background-color: #fc6057;
+}
+.c2 {
+  background-color: #fb845c;
+}
+.c3 {
+  background-color: #1bc1a1;
+}
+.rectangle {
+  width: 21rem;
+  height: 0.7rem;
+  background-color: white;
+}
+.gridParent {
+  display: grid;
+  grid-template-columns: repeat(3, 120px);
+  grid-template-rows: repeat(2, 65px);
+  row-gap: 10px;
+  column-gap: 10px;
+}
+.gridParent3 {
+  display: grid;
+  grid-template-columns: repeat(3, 120px);
+  grid-template-rows: 35px 60px 35px;
+  row-gap: 6px;
+  column-gap: 10px;
+}
+.gridParent4 {
+  display: grid;
+  grid-template-columns: repeat(3, 120px);
+  grid-template-rows: 45px 60px 25px;
+  row-gap: 6px;
+  column-gap: 10px;
+}
+.row1 {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  column-gap: 10px;
+}
+.gridParent5 {
+  display: grid;
+  grid-template-columns: repeat(6, 55px);
+  grid-template-rows: repeat(3, 45px);
+  row-gap: 6px;
+  column-gap: 10px;
+}
+.gridParent6 {
+  display: grid;
+  grid-template-columns: repeat(4, 90px);
+  grid-template-rows: repeat(5, 25px);
+  row-gap: 6px;
+  column-gap: 6px;
+}
+.gridParent7 {
+  display: grid;
+  grid-template-columns: repeat(2, 185px);
+  grid-template-rows: repeat(3, 43px);
+  row-gap: 6px;
+  column-gap: 10px;
+  position: relative;
+}
+.overlay {
+  grid-row: span 2;
+  display: grid;
+  grid-template-columns: repeat(2, 83px);
+  grid-template-rows: repeat(2, 38px);
+  padding: 5px;
+  row-gap: 6px;
+  justify-content: space-between;
+}
+.gridParent8 {
+  display: grid;
+  grid-template-columns: repeat(5, 70px);
+  grid-template-rows: repeat(3, 45px);
+  row-gap: 6px;
+  column-gap: 6px;
+}
+.gridParent9 {
+  display: grid;
+  grid-template-columns: repeat(3, 120px);
+  grid-template-rows: repeat(3, 45px);
+  row-gap: 6px;
+  column-gap: 6px;
+}
