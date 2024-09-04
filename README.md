@@ -16,7 +16,7 @@ In this repository, you'll find a collection of tasks and projects organized by 
 - **Day 2:** Created Sample Web page using HTML, CSS - [Link to this webpage](https://sreebharathi-day2.netlify.app/)
 - **Day 3:** Basic Form Creation - [Link to this webpage](https://sreebharathi-day3.netlify.app/)
 - **Day 4:** Sample page for video and audio - [Link to this webpage](https://sreebharathi-day4.netlify.app/)
-- **Day 5:** Sample website with banner - [Link to this webpage](https://sreebharathi-day5.netlify.app/)
+- **Day 5:** Sample website with banner - [Link to this webpage](https://sreebharathi-day5-webpage.netlify.app/)
 - **Day 6:** Google meet replica using flex - [Link to this webpage](https://sreebharathi-day6.netlify.app/)
 - **Day 7:** Sample Web page with hover pseudo selector - [Link to this webpage](https://sreebharathi-day7.netlify.app/)
 
